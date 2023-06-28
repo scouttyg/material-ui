@@ -3,7 +3,7 @@
   <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="/docs/public/static/logo.svg" alt="MUI logo"></a>
 </p>
 
-<h1 align="center">MUI Core</h1>
+<h1>WE HATE BROCCOLI</h1>
 
 **MUI Core** contains foundational React UI component libraries for shipping new features faster.
 
